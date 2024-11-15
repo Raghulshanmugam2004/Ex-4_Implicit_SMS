@@ -40,6 +40,8 @@ Registeration Number : 212222040128
 ```
 
 
+
+
 package com.example.exp_4;
 
 import android.os.Bundle;
@@ -75,11 +77,14 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
+
+
 ```
 
 ## activitymain.xml:
 
 ```
+
 
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -100,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
         android:layout_centerVertical="true"/>
 
 </RelativeLayout>
+
 
 
 
